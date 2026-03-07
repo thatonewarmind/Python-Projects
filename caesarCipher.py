@@ -1,7 +1,7 @@
 #Name: Aadit Bhatia
 #Date Started: 3/5/2026
-#Date Finished: 
-#Description:
+#Date Finished: 3/5/2026
+#Description: a basic program that, given an inputted message and key, encrypts the messag using a programmed CaesarCipher implementation
 
 
 #1: We need to initialize our variables to start with.
